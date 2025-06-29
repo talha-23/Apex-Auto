@@ -4,6 +4,15 @@ ApexAutos is a comprehensive relational database and desktop application designe
 
 ---
 
+## 👨‍💻 Group Members
+
+| Name               | Student ID |
+|--------------------|------------|
+| Muhammad Bilal     | 241914     |
+| Muhammad Talha     | 241890     |
+
+---
+
 ## 📚 Project Features
 
 - 📋 Manage Cars, Customers, Employees, and Suppliers
